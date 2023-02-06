@@ -1,4 +1,4 @@
-Author: 200010781
+Author: Yujie
 
 This archive contains a Java project of CS5001 practical 4 and relevant Junit tests.
 This project apply GuiDelegate structure, which combines view and controller together.
